@@ -1,9 +1,9 @@
 #Data Project template changes- Practice 19/12/2020
 
 -header
-##header##
+## header
 -large header
-#large header#
+# large header
 -bold
 **bold**
 -italics
