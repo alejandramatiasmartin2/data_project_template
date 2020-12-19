@@ -7,7 +7,7 @@ Bearing that in mind, your job is to:
 - Show them how they use it.
 - Tell them any other relevant details.
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+![Image](https://mk0lanoticiavesdar5g.kinstacdn.com/wp-content/uploads/2020/01/armonizar-pasado-presente-y-futuro.jpeg.webp)
 
 ---
 
