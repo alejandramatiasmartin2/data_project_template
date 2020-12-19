@@ -1,3 +1,20 @@
+#Data Project template changes- Practice 19/12/2020
+
+-header
+##header##
+-large header
+#large header#
+-bold
+**bold**
+-italics
+*italic*
+-links
+[link](https://www.ing.es)
+-bullets
+- First item
+2. Second item
+
+
 # Data Project README file
 
 The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
