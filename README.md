@@ -13,7 +13,9 @@
 -bullets
 - First item
 2. Second item
+-emojis
 
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 
 # Data Project README file
 
