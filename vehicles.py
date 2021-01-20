@@ -1,3 +1,5 @@
-from data.credentials.credentials import student
+import pandas as pd
 
-print(f"Hello, my name is {str(student)}")
+vehicles = pd.read_csv('/data/vehicles.csv')
+
+print(vehicles.shape)
